@@ -19,7 +19,7 @@ The following table shows data for all my computer glasses.
 | 9           | -0.50           | May 20, 2022            | Craig    |
 | 10          | -0.25           | June 27, 2022           | Craig    |
 
-No more glasses as of July 25, 2022.
+No more computer glasses as of July 25, 2022.
 
 ## Important Milestones
 
