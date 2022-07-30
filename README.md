@@ -16,8 +16,10 @@ The following table shows data for all my computer glasses.
 | 6           | -1.25           | Jan 26 2022             | Hiro     |
 | 7           | -1.00           | Feb 26 2022             | Craig    |
 | 8           | -0.75           | Apr 11, 2022            | Craig    |
-| 9           | -0.50 `current` | May 20, 2022            | Craig    |
-| 10          | -0.25           | TBD                     | Craig    |
+| 9           | -0.50           | May 20, 2022            | Craig    |
+| 10          | -0.25           | June 27, 2022           | Craig    |
+
+No more glasses as of July 25, 2022.
 
 ## Important Milestones
 
