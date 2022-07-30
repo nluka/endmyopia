@@ -23,5 +23,6 @@ No more glasses as of July 25, 2022.
 
 ## Important Milestones
 
-- April 10: hung up eye charts on window behind monitor
-- April 11: discovered right (weaker) eye acuity expansion method
+- April 10, 2022: hung up eye charts on window behind monitor
+- April 11, 2022: began consistently practicing active focus using eye charts
+- July 25, 2022: began consistently practicing active focus whilst outdoors
