@@ -1,28 +1,26 @@
-# lens-reduction-report
+|   |  |
+| - | -|
+| Knowledge base | [endmyopia site](https://endmyopia.org/), [endmyopia YouTube](https://www.youtube.com/c/endmyopia) |
+| Glasses purchased from | https://ca.eyebuydirect.com/ |
+| Total cost | $447.96 CAD |
 
-https://endmyopia.org/
+## Closeup glasses timeline
 
-## My Progress
+| Pair Number | Lens Strength in Diopters | Date Deployed | Frame |
+| - | - | - | - |
+| 1  | -2.50 | 2021 Jul 15 | [Wit](https://ca.eyebuydirect.com/eyeglasses/frames/wit-black-m-20008) |
+| 2  | -2.25 | 2021 Oct 01 | [Variable](https://ca.eyebuydirect.com/eyeglasses/frames/variable-black-m-18499) |
+| 3  | -2.00 | 2021 Oct 24 | [Craig](https://ca.eyebuydirect.com/eyeglasses/frames/craig-black-l-6372) |
+| 4  | -1.75 | 2021 Nov 17 | [Hiro](https://ca.eyebuydirect.com/eyeglasses/frames/hiro-gunmetal-l-17761) |
+| 5  | -1.50 | 2021 Dec 29 | [Craig](https://ca.eyebuydirect.com/eyeglasses/frames/craig-black-l-6372) |
+| 6  | -1.25 | 2022 Jan 26 | [Hiro](https://ca.eyebuydirect.com/eyeglasses/frames/hiro-gunmetal-l-17761) |
+| 7  | -1.00 | 2022 Feb 26 | [Craig](https://ca.eyebuydirect.com/eyeglasses/frames/craig-black-l-6372) |
+| 8  | -0.75 | 2022 Apr 11 | [Craig](https://ca.eyebuydirect.com/eyeglasses/frames/craig-black-l-6372) |
+| 9  | -0.50 | 2022 May 20 | [Craig](https://ca.eyebuydirect.com/eyeglasses/frames/craig-black-l-6372) |
+| 10 | -0.25 | 2022 Jun 27 | [Craig](https://ca.eyebuydirect.com/eyeglasses/frames/craig-black-l-6372) |
+|    | 0     | 2022 Jul 25 |  |
 
-The following table shows data for all my computer glasses.
+## Other Milestones
 
-| Pair Number | Lens Strength   | Date Deployed           | Frame    |
-| ----------- | --------------- | ----------------------- | -------- |
-| 1           | -2.50           | Middle-end of July 2021 | Wit      |
-| 2           | -2.25           | Early Oct 2021          | Variable |
-| 3           | -2.00           | Between Oct 20-28 2021  | Craig    |
-| 4           | -1.75           | Between Nov 15-19 2021  | Hiro     |
-| 5           | -1.50           | Between Dec 27-31 2021  | Craig    |
-| 6           | -1.25           | Jan 26 2022             | Hiro     |
-| 7           | -1.00           | Feb 26 2022             | Craig    |
-| 8           | -0.75           | Apr 11, 2022            | Craig    |
-| 9           | -0.50           | May 20, 2022            | Craig    |
-| 10          | -0.25           | June 27, 2022           | Craig    |
-
-No more computer glasses as of July 25, 2022.
-
-## Important Milestones
-
-- April 10, 2022: hung up eye charts on window behind monitor
-- April 11, 2022: began consistently practicing active focus using eye charts
-- July 25, 2022: began consistently practicing active focus whilst outdoors
+- 2022 Apr 11: began consistently practicing active focus using eye charts
+- 2022 Jul 25: began consistently practicing active focus whilst outdoors
