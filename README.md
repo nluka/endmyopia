@@ -58,12 +58,15 @@ Differentials:
 Normalized:
 | SPH (Diopters) | Date Deployed |
 | - | - |
-| -3.00 | TBD |
+| -3.25 | 2023 Jan 29 |
 
 ## Glasses Collection
 
 | SPH (Diopters) | CYL | Frame |
 | - | - | - |
+| -3.25 |  | Variable |
+| -3.00 |  | Hiro |
+| -2.75 |  | Craig |
 | -2.50 |  | Wit |
 | -2.25 |  | Variable |
 | -2.00 |  | Craig |
